@@ -18,7 +18,7 @@ const config = {
   projectName: 'nova34-docs', // Change this to your repository name
 
   onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore', // Change to 'warn' if you want to see warnings for broken links
 
   i18n: {
     defaultLocale: 'en',
