@@ -1,41 +1,56 @@
-# Website
+# Nova34 - Official Documentation  
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to the official documentation of **Nova34**!  
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static site generator.  
 
-### Installation
+## 🚀 Installation  
 
-```
-$ yarn
-```
+To install project dependencies, run:  
 
-### Local Development
-
-```
-$ yarn start
+```bash
+yarn
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## 🔧 Local Development  
 
-### Build
+To start a local development server and preview changes in real-time:  
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```bash
+yarn start
 ```
 
-Not using SSH:
+This command will automatically open a browser window with the documentation.  
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+## 📦 Build  
+
+To generate static files for deployment, run:  
+
+```bash
+yarn build
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+The static files will be generated in the `build` directory and can be hosted on any static content hosting service.  
+
+## 🚀 Deployment  
+
+If using SSH:  
+
+```bash
+USE_SSH=true yarn deploy
+```
+
+If not using SSH:  
+
+```bash
+GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If hosting on GitHub Pages, this command will build the website and push it to the `gh-pages` branch.  
+
+## 📄 License  
+
+This project is licensed under the [MIT License](LICENSE).  
+
+---
+
+For more details, visit the [Nova34 repository](https://github.com/silvioviscuso/nova34).  
