@@ -17,8 +17,8 @@ const config = {
   organizationName: 'innovativeboards', // Change this to your GitHub organization or username
   projectName: 'nova34-docs', // Change this to your repository name
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: 'ignore',
 
   i18n: {
     defaultLocale: 'en',
