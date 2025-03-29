@@ -57,7 +57,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/your-org/nova34',
+            href: 'https://github.com/silvioviscuso/nova34',
             label: 'GitHub',
             position: 'right',
           },
@@ -82,7 +82,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-org/nova34',
+                href: 'https://github.com/silvioviscuso/nova34',
               },
               {
                 label: 'Discord',
