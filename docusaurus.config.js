@@ -83,11 +83,7 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/silvioviscuso/nova34',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/your-discord-link',
-              },
+              }
             ],
           },
         ],
