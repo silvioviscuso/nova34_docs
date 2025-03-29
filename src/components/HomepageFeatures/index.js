@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: 'https://img.icons8.com/ios/452/wifi.png', // New image for connectivity
     description: (
       <>
-        With built-in Wi-Fi and Bluetooth, and support for camera, display, and IMU sensors, the NOVA34 board is ideal for IoT and robotics projects.
+        With built-in Wi-Fi 6 and Bluetooth 5, and support for camera, display, and IMU sensors, the NOVA34 board is ideal for IoT and robotics projects.
       </>
     ),
   },

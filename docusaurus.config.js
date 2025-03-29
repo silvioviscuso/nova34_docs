@@ -72,7 +72,7 @@ const config = {
             items: [
               {
                 label: 'Schematics',
-                to: '/docs/schematic/cover-block',
+                to: '/docs/schematics/cover-block',
               },
              
             ],
